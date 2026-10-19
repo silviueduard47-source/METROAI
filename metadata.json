@@ -1,0 +1,6 @@
+{
+  "name": "Sound Recorder",
+  "description": "Metro-style voice recorder featuring ultra-large timer, real-time minimalist audio visualizer, Pivot navigation, and authentic Windows Phone Metro design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

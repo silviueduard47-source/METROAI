@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sound Recorder</string>
+    <string name="pivot_header_app">sound recorder</string>
+    <string name="pivot_record">record</string>
+    <string name="pivot_saved_clips">saved clips</string>
+    <string name="status_ready">ready to record</string>
+    <string name="status_recording">recording…</string>
+    <string name="status_paused">paused</string>
+    <string name="btn_record">Record</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_resume">Resume</string>
+    <string name="appbar_settings">settings</string>
+    <string name="appbar_refresh">refresh</string>
+    <string name="appbar_quality">quality</string>
+    <string name="appbar_info">about</string>
+    <string name="no_recordings">no recordings yet</string>
+    <string name="permission_rationale">Microphone permission is required to record audio.</string>
+    <string name="permission_grant">Grant Permission</string>
+</resources>
